@@ -16,7 +16,7 @@ I'd dive in headfirst. Code late into the night. Tinker until it worked. No matt
 - Ideas that wouldn't let me sleep
 - Experiments I chased to completion
 
-Each ZIP is a time capsule – messy code, half-finished docs, the thrill of creation frozen in time.
+Each file is a time capsule – messy code, half-finished docs, the thrill of creation frozen in time.
 
 ## My Process
 
